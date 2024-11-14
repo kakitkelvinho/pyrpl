@@ -6,6 +6,7 @@ nbformat
 numpy
 pandas
 paramiko
+PyQt5
 pyqtgraph
 # pysine
 PyYAML
@@ -15,7 +16,7 @@ ruamel.base
 scipy
 scp
 six
-PyQt5
+
 
 # ipython==8.12.3
 # matplotlib==3.9.2
