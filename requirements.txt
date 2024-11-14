@@ -7,7 +7,7 @@ numpy
 pandas
 paramiko
 pyqtgraph
-pysine
+# pysine
 PyYAML
 qasync
 QtPy
